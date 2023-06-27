@@ -18,4 +18,4 @@ elif(operator == "/"):
 else:
     print("Please give a valid operator")
 
-print("The result is: " + str(resul
+print("The result is: " + str(result))
